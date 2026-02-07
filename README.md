@@ -1,2 +1,2 @@
-# torra
-seamless torrenting made simple -- designed for convenience and reliability
+# split/merge
+a custom memory allocator that reduces fragmentation to be easy on the heap
